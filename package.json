@@ -49,7 +49,7 @@
     "oxlint": "~1.58.0",
     "start-server-and-test": "^3.0.0",
     "typescript": "~6.0.2",
-    "vite": "^8.0.3",
+    "vite": "^8.0.7",
     "vite-plugin-vue-devtools": "^8.1.1",
     "vitest": "^4.1.2",
     "vue-tsc": "^3.2.6"
